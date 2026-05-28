@@ -1,5 +1,5 @@
 list_variable = [1 , 2 , 3 ,"4"]
-print(type(list_variable))
+print(list_variable)
 
 array_variable = [1,2,3,"4"]
 print(type(array_variable))
